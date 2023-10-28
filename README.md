@@ -26,10 +26,14 @@ This are most frequently asked interview questions
 
 6. **What is Flux Concept in React**
    - Facebook widely uses flux architecture concept for developing client-side web applications. it is not a framework or a library. it is simply a new kind of architecture that complements React and the concept of Unidirectional Data flow.
+
+7. **Define the term Redux in react**
+   - Redux is a library used for  Front-end-development. it is a state container for JS applications which should be used for the application state managetment. you can test and run an application developed with redux in different environments
   
+8. **What is the 'Store' feature in Redux**
+   - The 'Store' in Redux is like a big container that holds all the information about the app. It keeps track of everything in one place, so you can easily see what's going on and make changes when needed. It's a handy tool for managing your app's data
 
-
-
+9.
 
 
 

@@ -23,3 +23,22 @@ This are most frequently asked interview questions
      - It updates faster.
      - It cannot be used to update HTML directly.
      - Memory consumption is less.
+
+6. **What is Flux Concept in React**
+   - Facebook widely uses flux architecture concept for developing client-side web applications. it is not a framework or a library. it is simply a new kind of architecture that complements React and the concept of Unidirectional Data flow.
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

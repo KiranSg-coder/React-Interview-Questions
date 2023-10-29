@@ -37,17 +37,19 @@ This are most frequently asked interview questions
    - An action is a function that returns an action object. It contains the action type and data and facilitates communication between the store and the software application.
 
 10. **Name the important features of React**
-   - **Key features:**
-     - Allows the use of third-party libraries.
-     - Time-saving.
-     - Accelerates development.
-     - Promotes simplicity and composability.
-     - Offers code stability with one-directional data binding in React components.
-     - Fully supported by Facebook.
+      - **Key features:**
+        - Allows the use of third-party libraries.
+        - Time-saving.
+        - Accelerates development.
+        - Promotes simplicity and composability.
+        - Offers code stability with one-directional data binding in React components.
+        - Fully supported by Facebook.
 
+11. **Explain the term stateless components**
+       - Stateless components are pure funtions that render DOM-based solely on the properties provided to them.
 
-
-
+12. **Explain  React Router**
+       - React Router is a routing library which allows you to add new screen flows to your application, and it also keeps URL in sync with what's being shown on the page
 
 
 

@@ -33,18 +33,17 @@ This are most frequently asked interview questions
 8. **What is the 'Store' feature in Redux**
    - The 'Store' in Redux is like a big container that holds all the information about the app. It keeps track of everything in one place, so you can easily see what's going on and make changes when needed. It's a handy tool for managing your app's data
 
-9. **What is an Action in Redux**
-   - it is a function which returns an action object. the action-type and action data are  always stored in the action object. Actions can send data b/w the store and the software application. all information retrived by the store is produce by the actions.
+9. **What is an Action in Redux?**
+   - An action is a function that returns an action object. It contains the action type and data and facilitates communication between the store and the software application.
 
 10. **Name the important features of React**
-   - **important features are**
-        -Allows you to use 3rd party libraries
-        -Time Saving
-        -Faster Development
-        -Simplicity and Composable
-        -Code Stability with one-directional data binding react componets
-        -Fully supported by
-        -Facebook
+   - **Key features:**
+     - Allows the use of third-party libraries.
+     - Time-saving.
+     - Accelerates development.
+     - Promotes simplicity and composability.
+     - Offers code stability with one-directional data binding in React components.
+     - Fully supported by Facebook.
 
 
 

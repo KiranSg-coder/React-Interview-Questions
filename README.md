@@ -50,6 +50,9 @@ This are most frequently asked interview questions
 
 12. **Explain  React Router**
        - React Router is a routing library which allows you to add new screen flows to your application, and it also keeps URL in sync with what's being shown on the page
+   
+13. **What is dispatcher**
+       - A dispatcher is a central hub of app where you will recevie actions and brodcast payload to registered callbacks.
 
 
 

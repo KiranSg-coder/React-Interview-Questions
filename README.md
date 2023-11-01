@@ -52,7 +52,16 @@ This are most frequently asked interview questions
        - React Router is a routing library which allows you to add new screen flows to your application, and it also keeps URL in sync with what's being shown on the page
    
 13. **What is dispatcher**
-       - A dispatcher is a central hub of app where you will recevie actions and brodcast payload to registered callbacks. 
+       - A dispatcher is a central hub of app where you will recevie actions and brodcast payload to registered callbacks.
+
+14. **What is meant by callback function? What is its purpose**
+       - callback function is used in React to run the code after setState is done and components are updated. it's needed because  setState works asynchronously, so callback ensures that the code runs at right time
+
+15. **Explain the term high order component**
+       - A High order Component also known as HOC is an advance technique for reusing component logic. it is not a part of React API, but they are a pattern which emerges from React's compositional nature.
+
+16. **Explain the Presentational segment**
+       - A presentational part is a segment which allows you to render HTML. The segments capacity is presentational in markup.
 
 
 

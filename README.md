@@ -63,7 +63,10 @@ This are most frequently asked interview questions
 16. **Explain the Presentational segment**
        - A presentational part is a segment which allows you to render HTML. The segments capacity is presentational in markup.
 
-
+17. **Name two types of React component**
+       - Two types of react component
+         - Functional Component
+         - Class based Component
 
 
 

@@ -69,7 +69,7 @@ This are most frequently asked interview questions
          - Class based Component
 
 18. **Explain synthetic event in React.js**
-       synthethic event is a kind of object which acts as a cross-browers wrapper around the brower's native event. it also helps us to combine the behaviours of various browser into signal API.
+      - synthethic event is a kind of object which acts as a cross-browers wrapper around the brower's native event. it also helps us to combine the behaviours of various browser into signal API.
 
 
 

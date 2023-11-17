@@ -71,6 +71,11 @@ This are most frequently asked interview questions
 18. **Explain synthetic event in React.js**
       - synthethic event is a kind of object which acts as a cross-browers wrapper around the brower's native event. it also helps us to combine the behaviours of various browser into signal API.
 
+19. **How can you update state in react js?**
+       - A state can be updated on the component directly or indirectly
+
+20. **What is React State?**
+       - React State is like a special object in a React component that holds information about how the component should look and behave. This information can change while the component is being used.
 
 
 

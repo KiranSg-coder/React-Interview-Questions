@@ -77,6 +77,7 @@ This are most frequently asked interview questions
 20. **What is React State?**
        - React State is like a special object in a React component that holds information about how the component should look and behave. This information can change while the component is being used.
 
-
+30. **Explain the use of the arrow function in react?**
+       - The arrow function helps you to predict the behavior of bugs when passed as a callback therefore, it prevents bug caused by this all together.
 
 
